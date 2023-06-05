@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\khris\Development\Learn Flutter\flutter_slivers\build\windows\CMakeFiles\7a1029312608d1f75770b0bf2124a097\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{618D6FD8-DE80-3B53-9FCA-93B461B65A48}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
